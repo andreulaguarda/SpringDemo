@@ -17,7 +17,7 @@ El acceso se puede realizar desde Postman o desde el Navegador. También se pued
 3. BookController
    * Buscar todos los libros
    * Buscar un solo libro 
-   * Crear un nuevo libro 
+   * Crear un libro nuevo 
    * Actualizar un libro existente 
    * Borrar un libro 
    * Borrar todos los libros
